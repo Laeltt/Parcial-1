@@ -1,0 +1,22 @@
+
+	@font-face {font-family: customfont; 
+        src: url(laelttfont.ttf);}
+
+	body {
+        font-family: customfont;
+        text-align: center; 
+}
+
+.font {
+		font-style: italic; 
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	}
+
+.hr1 {
+
+ 	border: none;
+ 	 height: 3px;
+  	background-color: black;
+  	width: 70%;
+  	margin: 20px auto;
+}
